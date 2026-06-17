@@ -2,10 +2,6 @@
 
 A production-ready full-stack **Employee Management System** deployed on **Microsoft Azure**, featuring a React.js frontend, ASP.NET Core backend, and Azure SQL Database — automated end-to-end with CI/CD pipelines in **Azure DevOps**.
 
-**Live URLs:**
-- 🌐 Frontend: `https://htmlfrontend12345-bwhdcrngbwghjay.koreasouth-01.azurewebsites.net`
-- 🔗 Backend API: `https://backend123455-csc5cphxerafg4ey.koreasouth-01.azurewebsites.net/api/employee`
-
 ---
 
 ## 🏗️ Architecture
